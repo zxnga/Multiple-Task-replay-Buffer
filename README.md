@@ -8,9 +8,6 @@ This project builds upon stable_baselines3 buffers to propose buffers designed f
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Files Description](#files-description)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
